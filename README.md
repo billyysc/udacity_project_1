@@ -22,7 +22,7 @@ Business Questions:
 2. Boston Airbnb Analysis: the python notebook contains codes and annotations for the analysis.
 
 ## Results
-Findings from the analysis can be find in the Medium Post:
+Findings from the analysis can be find in the Medium Post:https://billyysc4.medium.com/plan-to-rent-or-list-an-airbnb-in-seattle-for-your-next-vacation-this-story-have-you-covered-3dff41516cf6
 
 ## Software
 This analysis uses Python 3.8.

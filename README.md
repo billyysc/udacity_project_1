@@ -12,9 +12,9 @@ Table of Contents
 
 This project is to understand the key factors that are impacting availability and pricing in the Boston Airbnb Market.
 Business Questions:
-1. What's the price trend in the Bost Airbnb Market, in general and by neighborhood?
-2. What's the correlation between customer review and listed room's availablility (t/f). 
-3. Can we predict room's availability using the features analyzed?
+1. Does traveling season (Apr., Jul., and Dec.) impact listings' availability?
+2. Is there any correlation between price and property's listing details (beds, etc)?
+3. Can we create a prediction model for listing price in Seattle Area using the listing details analyzed in question 2?
 
 ## File Description
 
